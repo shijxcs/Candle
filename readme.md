@@ -4,7 +4,7 @@ This is the source code for the paper: [Efficient and Long-Tailed Generalization
 
 ## Install
 
-This code is built on top of the codebase for [CoOp](https://github.com/KaiyangZhou/CoOp). Please follow their instructions to prepare the required environments.
+This code is built on top of the codebase for [CoOp](https://github.com/KaiyangZhou/CoOp). Please follow their instructions to prepare the required environments and datasets.
 
 ## Run
 
